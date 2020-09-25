@@ -1,6 +1,7 @@
 # PrioritySeatBookingSystem
 
 #Input
+
 Anil 90 CSE MECH ECE
 
 Subash 100 CSE MECH ECE
