@@ -39,17 +39,17 @@ public class Frontdesk {
                 departments.get(1)}));
         students.add(new Student("Subash",100, new Department[]{departments.get(0), departments.get(2),
                 departments.get(1)}));
-        students.add(new Student("Anirudh",70, new Department[]{departments.get(0), departments.get(2),
+        students.add(new Student("Anirudh",90, new Department[]{departments.get(0), departments.get(2),
                 departments.get(1)}));
-        students.add(new Student("Shankar",100, new Department[]{departments.get(0), departments.get(2),
+        students.add(new Student("Shankar",70, new Department[]{departments.get(0), departments.get(2),
                 departments.get(1)}));
         students.add(new Student("Ram",60, new Department[]{departments.get(0), departments.get(2),
                 departments.get(1)}));
         students.add(new Student("Sarath",50, new Department[]{departments.get(0), departments.get(2),
                 departments.get(1)}));
-        students.add(new Student("Krish",50, new Department[]{departments.get(0), departments.get(2),
+        students.add(new Student("Krish",40, new Department[]{departments.get(0), departments.get(2),
                 departments.get(1)}));
-        students.add(new Student("Sunil",70, new Department[]{departments.get(0), departments.get(2),
+        students.add(new Student("Sunil",30, new Department[]{departments.get(0), departments.get(2),
                 departments.get(1)}));
     }
 }
